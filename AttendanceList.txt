@@ -1,13 +1,13 @@
-Mateusz Dobrzyński 
+Mateusz Dobrzyński
  [ 13.10.2023 ]
  [ 27.10.2023 ]
- [ 3.11.2023 ]
+ [ 03.11.2023 ]
 
-Grzbyowski Dawid 
+Grzybowski Dawid
  [ 13.10.2023 ]
  [ 10.11.2023 ]
 
-Kubiak Jakub 
+Kubiak Jakub
  [ 22.09.2023 ]
  [ 29.09.2023 ]
  [ 06.10.2023 ]
@@ -34,7 +34,7 @@ Magdziński Kamil
 Masnyi Bohdan
  [ 13.10.2023 ]
 
-Mądry Tomasz 
+Mądry Tomasz
  [ 13.10.2023 ]
  [ 27.10.2023 ]
  [ 10.11.2023 ]
@@ -60,9 +60,9 @@ Stępień Bartosz
  [ 13.10.2023 ]
  [ 20.10.2023 ]
  [ 27.10.2023 ]
- [ 3.11.2023 ]
+ [ 03.11.2023 ] 
 
-Svieshnikov Bohdan 
+Svieshnikov Bohdan
  [ 22.09.2023 ]
  [ 29.09.2023 ]
  [ 06.10.2023 ]
@@ -74,7 +74,7 @@ Walkowiak Paweł
  [ 13.10.2023 ]
  [ 27.10.2023 ]
 
-Wejzer Adrian 
+Wejzer Adrian
  [ 13.10.2023 ]
  [ 27.10.2023 ]
 
@@ -90,11 +90,11 @@ Widerski Jakub
  [ 03.11.2023 ]
  [ 10.11.2023 ]
 
-Zych Adrian 
- [ 13.10.2023 ] 
+Zych Adrian
+ [ 13.10.2023 ]
  [ 22.09.2023 ]
  [ 29.09.2023 ]
  [ 20.10.2023 ]
  [ 27.10.2023 ]
  [ 03.11.2023 ]
- [ 10.11.2023 ]
+ [ 10.11.2023 ] 
